@@ -8,7 +8,6 @@
 
 import UIKit
 
-@IBDesignable
 public class MaterialActivityIndicatorView: UIView {
     @IBInspectable
     public var color: UIColor = .red {
